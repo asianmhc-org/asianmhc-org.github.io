@@ -35,5 +35,14 @@
 
 ### Regional Chats
 
+**Chicago**
+[https://samh.link/chats/chicago](https://samh.link/chats/chicago)
+
+**SoCal**
+[https://samh.link/chats/socal](https://samh.link/chats/socal)
+
+**NYC**
+]https://samh.link/chats/NYC](https://samh.link/chats/NYC)
+
 ## Discord
 [https://samh.link/discord](https://samh.link/discord)
