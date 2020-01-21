@@ -27,6 +27,12 @@
 **Mandalorian /Baby Yoda Chat**
 [https://samh.link/chats/yoda](http://samh.link/chats/yoda)
 
+**Pets/ Dogspotting**
+[https://samh.link/chats/pets](https://samh.link/chats/pets)
+
+**Toxic Families**
+[https://samh.link/chats/toxic](https://samh.link/chats/toxic)
+
 ### Regional Chats
 
 ## Discord
