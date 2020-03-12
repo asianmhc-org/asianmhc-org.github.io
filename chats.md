@@ -1,4 +1,13 @@
+## Discord
+[https://samh.link/discord](https://samh.link/discord)
+
 ## Facebook Chats
+
+# ___***CHATS NOTICE***___
+As of March 11, 2020, Facebook has disabled chat links on all platforms. If you cannot join, message Jed or Michael. Both can be found under the [admins tab](https://www.facebook.com/groups/354874495069490/admins/) and we will try our best to add you manually
+
+## tl;dr
+if the links don't work, blame facebook and message Jed or Michael They can be found [here](https://www.facebook.com/groups/354874495069490/admins/)
 
 **SAMH General**
 [https://samh.link/chats/general](https://samh.link/chats/general)
@@ -34,6 +43,3 @@
 [https://samh.link/chats/toxic](https://samh.link/chats/toxic)
 
 ### Regional Chats
-
-## Discord
-[https://samh.link/discord](https://samh.link/discord)
