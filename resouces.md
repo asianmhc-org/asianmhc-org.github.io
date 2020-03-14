@@ -26,25 +26,6 @@ Free online course for anxiety (one for youth, one for adults)
 
 [Mental Health Terms Translations](https://www.healthtranslations.vic.gov.au/)
 
-### Podcasts
-> **[“Our Anxiety Stories”](https://anxietycanada.com/ouranxietystories/)**
-> A podcast that’s slowly being released over the next while to share personal stories from all over Canada.
-
-> [Dear Hank and John](https://www.wnycstudios.org/podcasts/dear-hank-john)
-> Advice, Tips, guide to life
-
-[Center for Mindfulness & Compasison Audio Clips](https://www.chacmc.org/audio)
-
-[The Hilarious World of Depression](https://www.hilariousworld.org/)
-
-[Pop Psych 101](https://anchor.fm/poppsych101)
-
-[The Savvy Psychologist’s Quick and Dirty Tips for Better Mental Health](https://www.quickanddirtytips.com/savvy-psychologist)
-
-[Clen No (SAMH Community Member) YouTube Advice Column](https://www.youtube.com/clenclen)
-
-[Boyz Do Cry](https://anchor.fm/boyzdocry)
-
 ### Academic Studies & Data
 
 [Depression Among Asian American Students: MA General Hospital/Harvard Medical](https://www.mghstudentwellness.org/resources)

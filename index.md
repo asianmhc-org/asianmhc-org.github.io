@@ -19,3 +19,8 @@ AMHC implements several programs across SAMH and AMHP and these are, aside from 
 [SAMH Facebook Group](https://www.facebook.com/groups/subtleasianmentalhealth/)  
 [AMHC Facebook Page](https://www.facebook.com/asianmentalhealthcollective/)  
 [NYC WAVES Meetup Group](https://www.meetup.com/NYC-WAVES/)
+
+# Index
+[Chats](chats)  
+[Resources](resources)  
+[Podcasts](podcasts)
